@@ -148,3 +148,15 @@ input[type=buscar] {
     border-radius: 3px;
    
 }
+@media (max-width:800px){
+    form input{
+        display: none;
+    }
+    .PHS{
+        display: none;
+    }
+    .publicaçao{
+        width: 700px;
+    }
+
+}
