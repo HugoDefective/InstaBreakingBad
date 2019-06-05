@@ -1,5 +1,9 @@
 *{
     margin: 0;
+    
+}
+body{
+    background-color: rgb(238, 238, 238);
 }
 
 .logo{
@@ -21,6 +25,7 @@
 }
 
 .navbar{
+    background-color: white;
     width: 90%;
     height: 40px;
     display: flex;
@@ -34,7 +39,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    
+    background-color: white;
 }
 .conteudo{
     position: absolute;
@@ -59,6 +64,7 @@ hr{
     margin: 2px;
     border: solid 1px rgba(0, 0, 0, 0.116);
     border-radius: 2px;
+    background-color: white;
 }
 
 .bar{
@@ -68,9 +74,9 @@ hr{
     
 }
 .PHS{
+    background-color: white;
     width: 350px;
     height: 600px;
-   
     border: solid 1px rgba(0, 0, 0, 0.116);
     border-radius: 2px;
     display: flex;
